@@ -21,7 +21,7 @@
   <a href="https://leetcode.com/u/mahamed-emad">
     <img src="https://img.shields.io/badge/LeetCode-1E3A8A?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.hackerearth.com/leaderboard/practice/algorithms?page=31&size=10&user=mahamed.emad.barakat">
+  <a href="https://www.hackerearth.com/leaderboard/practice/algorithms/?page=31&size=10&user=mahamed.emad.barakat">
   <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=green" />
 </a>
 <a href="https://codeforces.com/profile/Mahamed_Emad">
