@@ -14,18 +14,23 @@
   <img src="https://raw.githubusercontent.com/mahamed-emad/Mahamed_Emad/main/data/hello%20world.gif" width="900" />
 </p>
 
+<h4 align="center">🏆 ⭐ Achieved a top ~0.2% ranking on HackerEarth's Algorithms Leaderboard ⭐ 🏆</h4>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahamed-emad/Mahamed_Emad/main/data/comp.gif" width="40" alt="Left GIF">
   <a href="https://leetcode.com/u/mahamed-emad">
     <img src="https://img.shields.io/badge/LeetCode-1E3A8A?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  <a href="https://www.hackerearth.com/leaderboard/practice/algorithms?page=31&size=10&user=mahamed.emad.barakat">
+  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=green" />
+</a>
 <a href="https://codeforces.com/profile/Mahamed_Emad">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
   <a href="https://codewars.com/users/mahamed-emad">
     <img src="https://img.shields.io/badge/Codewars-1E3A8A?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
-    <img src="https://raw.githubusercontent.com/mahamed-emad/Mahamed_Emad/main/data/comp.gif" width="40"alt="Right GIF">
+  <img src="https://raw.githubusercontent.com/mahamed-emad/Mahamed_Emad/main/data/comp.gif" width="40"alt="Right GIF">
 </p>
 
 ---
