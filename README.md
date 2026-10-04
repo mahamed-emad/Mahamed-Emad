@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#1E3A8A;">Mahamed Emad</span> 👋</h1>
-<h3 align="center">🤖📊 Software Engineer | Data Scientist | Machine Learning | Deep Learning | Mathematician-Statistician 📊🤖</h3>
+<h3 align="center">🤖📊Software Engineer | Data Scientist | Machine Learning | Deep Learning | Mathematician-Statistician📊🤖</h3>
 
 <h4 align="center">💡 I build <b>Python</b> tools combining <b>Math</b>, <b>Statistics</b>, and <b>Programming </b></h4>
 <h4 align="center">  to create practical solutions and foster a deeper understanding 💡</h4>
